@@ -1,2 +1,2 @@
-def main(): # < Documentation Gaurdian | Protect >
+def main(): # < Documentation Guardian | Protect >
     return 5
